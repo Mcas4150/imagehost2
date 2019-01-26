@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Mcas4150/imagehost.git"
+    "url": "git+ssh://git@github.com/Mcas4150/imagehost2.git"
   },
   "keywords": [
     "api",
@@ -20,9 +20,9 @@
   "author": "Mike Cassidy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mcas4150/imagehost/issues"
+    "url": "https://github.com/Mcas4150/imagehost2/issues"
   },
-  "homepage": "https://github.com/Mcas4150/imagehost#readme",
+  "homepage": "https://github.com/Mcas4150/imagehost2#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^6.2.0",
